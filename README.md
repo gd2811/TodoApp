@@ -27,5 +27,4 @@ The "TodoApp" project is a task management application developed using HTML, CSS
 ### Future Enhancements
 
 - Task Categories: Implement the ability for users to categorize tasks into different categories for better organization.
-- Task Prioritization: Add features to allow users to prioritize tasks based on urgency or importance.
 - User Accounts: Incorporate user authentication and accounts to enable personalized task lists and user-specific settings.
