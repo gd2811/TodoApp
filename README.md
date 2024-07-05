@@ -24,7 +24,3 @@ The "TodoApp" project is a task management application developed using HTML, CSS
 - CSS: Stylesheet language for styling the elements and layout of the page.
 - JavaScript: Programming language for implementing the task management logic and interactivity of the TodoApp.
 
-### Future Enhancements
-
-- Task Categories: Implement the ability for users to categorize tasks into different categories for better organization.
-- User Accounts: Incorporate user authentication and accounts to enable personalized task lists and user-specific settings.
